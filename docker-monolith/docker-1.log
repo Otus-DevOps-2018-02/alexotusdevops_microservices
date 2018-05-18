@@ -1,0 +1,10 @@
+REPOSITORY                       TAG                 IMAGE ID            CREATED             SIZE
+alexotusdevops/ubuntu-tmp-file   latest              179f3e907f70        17 minutes ago      113MB
+ubuntu                           16.04               0b1edfbffd27        2 weeks ago         113MB
+hello-world                      latest              e38bc07ac18e        4 weeks ago         1.85kB
+
+# Отличие контейнера и образа
+Образ - зафиксированное состояние контейнера, доступной только для чтения. 
+Контенер - запущенный образ с слоем для записи/модификации данных
+
+
