@@ -9,6 +9,9 @@ alexotusdevops microservices repository
 ##### [Homework 15](#hw15)  
  * [Main task](#hw151)  
  * [Task *](#hw152)  
+##### [Homework 16](#hw16)  
+ * [Main task](#hw161)  
+
 
 
 <a name="hw13"></a>
@@ -50,4 +53,13 @@ alexotusdevops microservices repository
     > docker run --env POST_DATABASE_HOST=post_db_new --env POST_DATABASE=posts_new -d --network=reddit --network-alias=post_new alexotusdevops/post:1.0  
     > docker run --env COMMENT_DATABASE_HOST=comment_db_new --env COMMENT_DATABASE=comments_new -d --network=reddit --network-alias=comment_new alexotusdevops/comment:1.0  
     > docker run --env COMMENT_SERVICE_HOST=comment_new --env POST_SERVICE_HOST=post_new -d --network=reddit -p 9292:9292 alexotusdevops/ui:1.0  
+
+<a name="hw16"></a>
+## Homework 16
+<a name="hw161"></a>
+##### Main task  
+  - Install docker-compose  
+  - Run docker with different networks (none, brigde, host)  
+  - Divide networks into front & back  
+  - Docker-compose.yml edited to work with multiple networks  
 
