@@ -11,6 +11,8 @@ alexotusdevops microservices repository
  * [Task *](#hw152)  
 ##### [Homework 16](#hw16)  
  * [Main task](#hw161)  
+##### [Homework 17](#hw17)  
+ * [Main task](#hw171)  
 
 
 
@@ -62,4 +64,13 @@ alexotusdevops microservices repository
   - Run docker with different networks (none, brigde, host)  
   - Divide networks into front & back  
   - Docker-compose.yml edited to work with multiple networks  
+
+<a name="hw17"></a>
+## Homework 17
+<a name="hw171"></a>
+##### Main task  
+  - New host created in GCP  
+  - Install Omnibus Gitlab  
+  - Customized GitlabCI  
+
 
