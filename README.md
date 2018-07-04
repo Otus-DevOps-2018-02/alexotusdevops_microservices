@@ -13,6 +13,10 @@ alexotusdevops microservices repository
  * [Main task](#hw161)  
 ##### [Homework 17](#hw17)  
  * [Main task](#hw171)  
+##### [Homework 18](#hw18)  
+ * [Main task](#hw181)  
+##### [Homework 19](#hw19)  
+ * [Main task](#hw191)  
 
 
 
@@ -73,4 +77,23 @@ alexotusdevops microservices repository
   - Install Omnibus Gitlab  
   - Customized GitlabCI  
 
+<a name="hw18"></a>
+## Homework 18
+<a name="hw181"></a>
+##### Main task  
+  - Create new Gitlab project  
+  - Share runner to new project  
+  - New env created  
+  - Work with condition, limitation and dynamic environment 
 
+<a name="hw19"></a>
+## Homework 19
+<a name="hw191"></a>
+##### Main task  
+  - Create prometheus docker image  
+  - Modify docker-compose.yml  
+  - Setting up metrics collection  
+  - Work with exporters  
+
+  - Dockerhub link  
+> https://hub.docker.com/u/alexotusdevops/
