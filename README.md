@@ -13,6 +13,8 @@ alexotusdevops microservices repository
  * [Main task](#hw161)  
 ##### [Homework 17](#hw17)  
  * [Main task](#hw171)  
+##### [Homework 18](#hw18)  
+ * [Main task](#hw181)  
 
 
 
@@ -72,5 +74,16 @@ alexotusdevops microservices repository
   - New host created in GCP  
   - Install Omnibus Gitlab  
   - Customized GitlabCI  
+
+<a name="hw18"></a>
+## Homework 18
+<a name="hw181"></a>
+##### Main task  
+  - Create new Gitlab project  
+  - Share runner to new project  
+  - New env created  
+  - Work with condition, limitation and dynamic environment  
+
+
 
 
