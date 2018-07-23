@@ -14,8 +14,9 @@ alexotusdevops microservices repository
 ##### [Homework 17](#hw17)  
  * [Main task](#hw171)  
 ##### [Homework 18](#hw18)  
- * [Main task](#hw181)  
-
+ * [Main task](#hw181) 
+##### [Homework 19](#hw19)  
+ * [Main task](#hw191)  
 
 
 <a name="hw13"></a>
@@ -82,8 +83,16 @@ alexotusdevops microservices repository
   - Create new Gitlab project  
   - Share runner to new project  
   - New env created  
+  - Work with condition, limitation and dynamic environment 
+
+<a name="hw19"></a>
+## Homework 19
+<a name="hw191"></a>
+##### Main task  
+  - Create prometheus docker image  
+  - Modify docker-compose.yml  
+  - Setting up metrics collection  
+  - Work with exporters  
   - Work with condition, limitation and dynamic environment  
-
-
-
-
+  - Dockerhub link  
+> https://hub.docker.com/u/alexotusdevops/
