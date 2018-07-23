@@ -17,6 +17,8 @@ alexotusdevops microservices repository
  * [Main task](#hw181) 
 ##### [Homework 19](#hw19)  
  * [Main task](#hw191)  
+##### [Homework 20](#hw20)  
+ * [Main task](#hw201)  
 
 
 <a name="hw13"></a>
@@ -96,3 +98,16 @@ alexotusdevops microservices repository
   - Work with condition, limitation and dynamic environment  
   - Dockerhub link  
 > https://hub.docker.com/u/alexotusdevops/
+
+<a name="hw20"></a>
+## Homework 20
+<a name="hw201"></a>
+##### Main task  
+  - Separate docker-compose files  
+  - Create grafana docker image  
+  - Create dashboards  
+  - Work with alertmanager  
+
+  - Dockerhub link  
+> https://hub.docker.com/u/alexotusdevops/
+
