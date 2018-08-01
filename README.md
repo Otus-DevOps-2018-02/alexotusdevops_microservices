@@ -23,6 +23,8 @@ alexotusdevops microservices repository
  * [Main task](#hw211)  
 ##### [Homework 22](#hw22)  
  * [Main task](#hw221)  
+##### [Homework 23](#hw23)  
+ * [Main task](#hw231)  
 
 
 
@@ -129,4 +131,13 @@ alexotusdevops microservices repository
 <a name="hw221"></a>
 ##### Main task  
   - Set up Kubernetes the hard way  
+
+<a name="hw23"></a>
+## Homework 23
+<a name="hw231"></a>
+##### Main task  
+  - Run reddit app locally in Minikube  
+  - Run reddit app in GCE  
+  - App link: http://35.193.251.105:30090/  
+
 
