@@ -25,6 +25,8 @@ alexotusdevops microservices repository
  * [Main task](#hw221)  
 ##### [Homework 23](#hw23)  
  * [Main task](#hw231)  
+##### [Homework 24](#hw24)  
+ * [Main task](#hw241)  
 
 
 <a name="hw13"></a>
@@ -138,5 +140,18 @@ alexotusdevops microservices repository
   - Run reddit app locally in Minikube  
   - Run reddit app in GCE  
   - App link: http://35.193.251.105:30090/  
+
+<a name="hw24"></a>
+## Homework 24
+<a name="hw241"></a>
+##### Main task  
+  - Ingress Controller  
+  - Ingress  
+  - Secret  
+  - TLS  
+  - LoadBalancer Service  
+  - Network Policies  
+  - PersistentVolumes  
+  - PersistentVolumeClaims  
 
 
