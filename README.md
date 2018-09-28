@@ -21,6 +21,8 @@ alexotusdevops microservices repository
  * [Main task](#hw201)  
 ##### [Homework 21](#hw21)  
  * [Main task](#hw211)  
+##### [Homework 22](#hw22)  
+ * [Main task](#hw221)  
 
 
 <a name="hw13"></a>
@@ -120,4 +122,10 @@ alexotusdevops microservices repository
   - Configured EFK stack  
   - Create & configured filters and log parsing rules  
   - Add zipkin in docker-compose-logging  
+
+<a name="hw22"></a>
+## Homework 22
+<a name="hw221"></a>
+##### Main task  
+  - Set up Kubernetes the hard way  
 
