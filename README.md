@@ -27,6 +27,8 @@ alexotusdevops microservices repository
  * [Main task](#hw231)  
 ##### [Homework 24](#hw24)  
  * [Main task](#hw241)  
+##### [Homework 25](#hw25)  
+ * [Main task](#hw251)  
 
 
 <a name="hw13"></a>
@@ -153,5 +155,11 @@ alexotusdevops microservices repository
   - Network Policies  
   - PersistentVolumes  
   - PersistentVolumeClaims  
+
+<a name="hw25"></a>
+## Homework 25
+<a name="hw251"></a>
+##### Main task  
+  - Install prometheus, grafana, EFK on kubernetes cluster  
 
 
